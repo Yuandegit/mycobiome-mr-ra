@@ -1,0 +1,53 @@
+# Revised manuscript sections (English)
+
+The following are publication-ready passages to be inserted into the main manuscript. Locations are indicated in brackets.
+
+---
+
+## Methods
+
+### [Insert as a new subsection: Cross-population transferability]
+
+Because no Japanese gut-mycobiome genome-wide association study is available, a direct replication of exposure effects in the outcome population was not possible. We therefore assessed cross-population transferability indirectly through the alignment of instrument allele frequencies, which determines whether a selected instrument remains polymorphic and informative in the outcome sample. Allele frequencies were already aligned to the same effect allele during harmonisation. For each valid instrument we compared the allele frequency reported in the Han Chinese exposure GWAS with that in the Japanese Biobank outcome GWAS, using Pearson and Spearman correlation on both the raw and logit scales, and summarising the absolute frequency difference. We evaluated the full panel and the low-frequency subset (exposure minor allele frequency below 0.05) separately, and verified that no instrument was monomorphic in the Japanese sample. Frequency concordance was used as evidence for the portability of the instruments, not as proof that exposure effect magnitudes are identical across populations.
+
+### [Insert as a new subsection: First-stage calibration and winner's curse]
+
+Instrument selection and instrument-strength estimation used the same exposure associations, so the in-sample variance explained and F statistics are subject to first-stage selection bias (winner's curse). Individual-level and per-cohort data required for cross-validation were not available, so we applied two statistical calibrations and report the raw values as optimistic upper bounds. The empirical-Bayes calibration assumes that the true non-centrality parameters follow a normal prior with variance τ²; τ² was estimated by maximum likelihood from the marginal distribution of the selected statistics while accounting for the two-sided selection threshold, and each statistic was shrunk by the factor τ²/(τ² + 1). The second calibration used the two-sided truncated conditional maximum likelihood estimator, which maximises the likelihood of the non-centrality conditional on the statistic exceeding the selection threshold. For each feature we report total R² under the raw, empirical-Bayes and conditional-MLE calibrations, together with the corresponding joint F statistic, F = [R²/(1 − R²)] × [(n − 1 − k)/k], where k is the number of instruments. Because instruments were clumped at r² < 0.001 and are therefore approximately independent, the joint F is reported in place of an individual-data conditional F.
+
+### [Insert as a new subsection: Pleiotropy-robust estimators]
+
+In addition to the inverse-variance weighted, weighted-median, MR-Egger and robust adjusted profile score methods, we applied four further estimators. The weighted mode estimator identifies the mode of the inverse-variance weighted distribution of per-variant Wald ratios, with its standard error obtained by bootstrap. The contamination mixture models the per-variant ratios as a mixture of a valid normal component centred on a common causal effect and a uniform invalid component spanning the candidate range, profiling over the mixing proportion and deriving a likelihood-based 95% interval. MR-Lasso fits per-variant intercepts with an L1 penalty on the design [bx, Iₙ]; because the saturated design makes cross-validation and BIC selection unstable at small sample size, the Lasso was solved along the exact least-angle-regression path and evaluated at the deterministic step where the causal term enters, with variants carrying non-zero intercepts at that point flagged as pleiotropic. The weighted total least-squares estimator allows uncertainty in both the exposure and outcome associations without removing variants. Finally, we report the single-pass inverse-variance weighted estimate as the studentised residual threshold is varied across 2.5, 3.0, 3.5 and 4.0, to make any threshold dependence explicit rather than selecting a single cut-off.
+
+---
+
+## Results
+
+### [Insert after the primary inverse-variance weighted analysis: Pleiotropy-robust estimates]
+
+Across the 115 genus-level features, the contamination mixture returned no nominally significant association, providing the strongest single piece of evidence that the panel contains no robust causal effect. For Cutaneotrichosporon continuous abundance (feature 109), the estimators that identify pleiotropic instruments returned estimates centred on the null. The contamination mixture gave β = −0.007 (SE 0.073; 95% likelihood interval −0.080 to 0.065; mixing proportion ψ = 0.905), and MR-Lasso flagged two pleiotropic variants, rs116921468 and the driver rs111394117, and gave β = −0.018 (SE 0.040; P = 0.66) from the remaining 20 instruments. The weighted mode gave β = −0.243 with a wide bootstrap standard error of 0.121 (P = 0.046) and did not constitute a stable confirmation. Estimators that retained every variant remained significant because the driver was retained: weighted total least squares gave β = −0.145 (SE 0.015) and the robust adjusted profile score β = −0.129 (P = 9.8 × 10⁻¹⁰), so their significance is attributable to the same single variant rather than to a consensus across methods.
+
+The residual-threshold trajectory demonstrated the threshold dependence of single-pass removal. At thresholds of 2.5 and 3.0 the driver was removed and the inverse-variance estimate was null (β = −0.015, P = 0.79; β = −0.018, P = 0.66), whereas at 3.5 and 4.0 the driver was retained, its residual magnitude being 3.02, and the estimate remained strongly significant (β = −0.178, P = 5.7 × 10⁻¹⁷). Under the naive fit the largest outcome-scaled residual belonged to rs116921468 (|r| = 4.27), with the driver second (|r| = 3.02). The primary causal conclusion therefore rests on the threshold-independent leave-one-out and regional exclusion analyses, which independently return to null, rather than on the single-pass rule.
+
+### [Insert in the first-stage/instrument-strength Results: Calibrated strength]
+
+The raw in-sample total R² had a median of 5.23% across features (maximum 20.1%) and the raw joint F a median of 23.0, with no feature below 10; the latter is a mechanical consequence of the P < 10⁻⁵ selection threshold and carries no independent information. After winner's-curse calibration the median total R² fell to 0.33% under empirical Bayes and 0.87% under the conditional maximum likelihood estimator, and the median joint F fell to 1.39 and 4.01 respectively, with all 115 features below the conventional weak-instrument threshold of 10. For feature 109, total R² fell from 6.74% (raw) to 0.43% and 1.65% under the two calibrations, and its joint F from 24.1 to 1.44 and 5.57. The raw values are therefore reported as optimistic upper bounds, and the instrument panel as a whole is best characterised as weak rather than strong.
+
+### [Insert in the Results: Cross-population transferability]
+
+Among the 1,953 instruments with frequency data in both samples, the exposure and outcome allele frequencies were strongly correlated (Pearson r = 0.95; Spearman ρ = 0.84; r = 0.87 on the logit scale). The median absolute frequency difference was 0.015, the 90th percentile 0.067, and only 3.7% of instruments differed by more than 0.10; no instrument was monomorphic in the Japanese sample. The low-frequency subset showed a weaker Pearson correlation (r = 0.44) but a small absolute difference (median 0.010), and the driver variant remained polymorphic in both populations (frequency 0.021 in Han; 0.063 in Japanese). The instruments are therefore portable in frequency, with the largest relative uncertainty confined to low-frequency variants.
+
+### [Insert in the Results: Orthogonal HLA control]
+
+On the same Japanese platform, the driver variant rs111394117 showed a concordant, nominally significant association with systemic lupus erythematosus (β = −0.34, SE 0.16, P = 0.034), in the same direction as its rheumatoid-arthritis effect (β = −0.414, P = 5.3 × 10⁻²²). Its associations with type 1 diabetes and ulcerative colitis were close to the null and not significant (β = −0.042, P = 0.63; β = 0.011, P = 0.95). The concordant lupus association indicates that the variant carries cross-autoimmune HLA pleiotropy rather than an effect specific to rheumatoid arthritis or the mycobiome; the null estimates in the smaller type 1 diabetes (1,219 cases) and ulcerative colitis (314 cases) cohorts are consistent with limited power and differing HLA architecture rather than an absence of pleiotropy.
+
+---
+
+## Discussion (revised passages)
+
+### [Revised positive-control framing]
+
+The positive-control analysis should be read as a demonstration of failure modes rather than as validation of the pipeline. In the BMI-to-type-2-diabetes example, naive inverse-variance weighting was directionally wrong (β = −0.288) because direct glycaemic loci such as TCF7L2 and GIPR were included among the instruments; a single-pass residual rule removed 42 of 98 variants (43%), beyond the proportion under which the weighted median's validity can be assumed, and used outcome-side information. The example illustrates how pleiotropic loci can mislead a naive estimate and how residual diagnostics can detect them, but it does not establish that the rule is unbiased or that it recovers a known effect.
+
+### [Revised limitations]
+
+Three limitations warrant emphasis. First, individual-level detection rates, zero proportions and abundance distributions are not released, so the scale behaviour of sparse genera could only be examined through the continuous-versus-binary instrument contrast; the CLR coefficient is a per-standard-deviation change in log-relative abundance and remains sensitive to a small number of high observations. Second, per-cohort summary statistics and between-cohort heterogeneity (I²) for the five-cohort fixed-effect exposure meta-analysis are not publicly available, including for the two cohorts below 500 participants, so this heterogeneity could not be independently recomputed. Third, frequency concordance supports but cannot prove identical exposure effect magnitudes across the Han and Japanese populations, and the calibrated weak-instrument status of the panel means that small causal effects cannot be excluded. Combined with the infeasibility of reverse Mendelian randomization and the scale-dependent Steiger results, this study makes no claim about reverse causation and addresses the forward mycobiome-to-rheumatoid-arthritis direction only.

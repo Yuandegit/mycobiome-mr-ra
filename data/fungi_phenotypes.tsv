@@ -1,0 +1,405 @@
+chrom	pos	ref	alt	rsids	nearest_genes	pval	gc_lambda_hundred	num_peaks	category	phenocode
+12	10892939	C	T	rs12314925	YBX3	2.3e-14	0.97444	2	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Filobasidiales.f__Filobasidiaceae
+12	10892939	C	T	rs12314925	YBX3	2.8e-14	0.97444	2	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Filobasidiales
+10	130555336	C	T	rs116313866	MKI67	3.9e-14	0.97444	3	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Tremellales
+8	29198733	G	A	rs150126808	DUSP4	6.1e-13	1.0	2	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Auriculariales
+9	5079498	GT	G		JAK2	5.7e-12	0.97444	4	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Tremellales.f__Rhynchogastremataceae
+12	1082337	A	G	rs2107648	RAD52	7.5e-11	1.0	2	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Dothideales
+8	29198733	G	A	rs150126808	DUSP4	8.6e-11	1.0054	2	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Auriculariales.f__Auriculariaceae.g__Auricularia
+8	29198733	G	A	rs150126808	DUSP4	9.8e-11	1.0054	2	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Auriculariales.f__Auriculariaceae
+10	55189208	G	A	rs117181132	PCDH15	1e-10	0.97444	1	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Tremellales.f__Bulleribasidiaceae
+2	13673119	A	G		TRIB2	1.3e-10	0.97444	2	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales.f__Herpotrichiellaceae.g__Exophiala
+4	169975287	T	C	rs113461585	SH3RF1	1.9e-10	0.97444	3	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Dipodascaceae
+3	141035122	C	T	rs6771916	PXYLP1	4.2e-10	1.0	3	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Sordariales.f__Chaetomiaceae.__
+11	20692413	C	T	rs7946984	NELL1	4.3e-10	0.97444	2	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales.f__Trichosporonaceae.g__Trichosporon
+1	242187305	A	G	rs61846321	MAP1LC3C	5.8e-10	0.97444	1	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Polyporales.f__Ganodermataceae
+12	871641	G	T	rs76549252	WNK1	7.1e-10	1.0	2	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Xylariales.f__Xylariaceae
+3	179243786	T	C	rs145374089	ACTL6A	7.3e-10	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Trichosphaeriales.f__Trichosphaeriaceae.g__Nigrospora
+18	63128622	A	C	rs556960502	CDH7	7.4e-10	1.0	1	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Tremellales.f__Bulleribasidiaceae
+13	22516296	C	T	rs200390386	FGF9	8.2e-10	1.0	3	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetaceae.g__Kazachstania
+11	63793584	C	T	rs182785041	MACROD1	8.6e-10	1.0	6	Continuous	Continuous_p__Ascomycota.c__Pezizomycetes.o__Pezizales
+4	8448348	A	G	rs78384927	TRMT44	9.2e-10	1.0	1	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Phaeosphaeriaceae.__
+10	91869237	G	A	rs80327200	KIF20B	9.6e-10	1.0	2	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetales_fam_Incertae_sedis.g__Diutina
+1	21210743	T	C	rs142218673	EIF4G3	1e-09	1.0	4	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales.__
+11	63793584	C	T	rs182785041	MACROD1	1.2e-09	1.0	6	Continuous	Continuous_p__Ascomycota.c__Pezizomycetes
+11	40800779	A	G	rs146337491	LRRC4C	1.2e-09	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Phaffomycetaceae
+4	106453756	G	A	rs78123996	ARHGEF38	1.2e-09	1.0	2	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Filobasidiales.f__Filobasidiaceae.g__Filobasidium
+4	78981448	A	G	rs114003837	FRAS1	1.3e-09	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Tremellales.__
+9	32990247	G	A	rs146481967	APTX	1.4e-09	0.97444	2	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Bolbitiaceae
+12	32046646	T	C		RESF1	1.5e-09	1.0	2	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Aspergillaceae.g__Penicillium
+13	83910793	C	A	rs2796874	SLITRK1	1.6e-09	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetaceae.g__Zygosaccharomyces
+11	121859606	A	G	rs533981284	BLID	1.6e-09	0.97444	4	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Pleurotaceae
+3	13218645	C	T	rs148512423	IQSEC1	1.6e-09	0.97444	2	Continuous	Continuous_p__Basidiomycota.c__Exobasidiomycetes.o__Tilletiales.f__Tilletiaceae.g__Tilletia
+2	13675599	C	T		TRIB2	1.8e-09	0.97444	1	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales.f__Herpotrichiellaceae.g__Exophiala
+15	73113113	C	T	rs74520130	ADPGK	1.8e-09	0.97444	4	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Dothideales.f__Aureobasidiaceae.__
+11	121859606	A	G	rs533981284	BLID	1.8e-09	0.97444	4	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Pleurotaceae.g__Pleurotus
+1	180735735	A	G	rs182256424	XPR1	1.9e-09	1.0	2	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Sordariales.f__Chaetomiaceae
+3	13218645	C	T	rs148512423	IQSEC1	1.9e-09	0.97444	3	Continuous	Continuous_p__Basidiomycota.c__Exobasidiomycetes.o__Tilletiales.f__Tilletiaceae
+16	83021835	G	A	rs116960728	CDH13	1.9e-09	0.97444	1	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Filobasidiales.f__Filobasidiaceae.g__Naganishia
+13	89226377	G	GT	rs201263272	SLITRK5	2.1e-09	1.0	1	Continuous	Continuous_p__Ascomycota.c__Leotiomycetes.o__Erysiphales.f__Erysiphaceae.g__Blumeria
+13	62925950	T	C	rs113372398	AL592490.1	2.2e-09	1.0	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Nectriaceae
+3	13218645	C	T	rs148512423	IQSEC1	2.6e-09	0.97444	3	Continuous	Continuous_p__Basidiomycota.c__Exobasidiomycetes.o__Tilletiales
+19	49529910	G	C	rs7258373	AC008687.1	2.7e-09	0.97444	3	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Phaffomycetaceae.g__Wickerhamomyces
+9	18882221	G	A		ADAMTSL1,SAXO1	2.8e-09	0.97444	1	Binary	Binary_p__Basidiomycota.c__Cystobasidiomycetes.__
+18	27700776	TA	T		DSC3	3e-09	0.97444	4	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Dothideales.f__Aureobasidiaceae.__
+5	144049464	T	C	rs35122001	KCTD16	3e-09	1.0	2	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetales_fam_Incertae_sedis.g__Starmerella
+1	54138325	T	C	rs74588008	GLIS1	3.2e-09	0.97444	3	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Debaryomycetaceae.g__Hyphopichia
+10	18213296	G	A	rs375477285	MRC1	3.5e-09	0.97444	2	Continuous	Continuous_p__Ascomycota.c__Leotiomycetes.o__Helotiales.__
+5	1410147	C	T	rs28363103	SLC6A3	3.8e-09	1.0	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Xylariales.f__Apiosporaceae
+2	200004802	C	CTCAA	rs545224555	SATB2	4.1e-09	0.97444	1	Binary	Binary_p__Basidiomycota.c__Agaricostilbomycetes
+15	58116908	G	A	rs11631958	POLR2M	4.1e-09	0.97444	3	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Dothideales.f__Aureobasidiaceae
+16	8091601	A	T	rs144429297	RBFOX1	5e-09	1.0	2	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Phaffomycetaceae.__
+9	115509156	T	C	rs2173193	SNX30	5.1e-09	1.0	2	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Microascales.f__Microascaceae.__
+9	5079498	GT	G		JAK2	5.4e-09	1.0	1	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Tremellales.f__Rhynchogastremataceae
+5	1410147	C	T	rs28363103	SLC6A3	5.4e-09	1.0	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Xylariales.f__Apiosporaceae.g__Arthrinium
+11	124945085	G	A		SLC37A2	6.9e-09	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.__
+8	111739331	T	C	rs75454867	KCNV1	7.7e-09	1.0	5	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Phallales.f__Phallaceae.g__Phallus
+6	32755024	G	A	rs28986406	HLA-DQB2	8.1e-09	0.97444	2	Continuous	Continuous_p__Basidiomycota.c__Microbotryomycetes.o__Sporidiobolales
+8	111739331	T	C	rs75454867	KCNV1	8.5e-09	1.0	3	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Phallales
+12	99136174	A	AAAAAC	rs138820047	ANKS1B	8.8e-09	1.0	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Nectriaceae.g__Fusarium
+5	60865570	A	G	rs11746516	ZSWIM6	9.2e-09	1.0027	1	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Botryosphaeriales
+2	200004802	C	CTCAA	rs545224555	SATB2	9.3e-09	0.97444	1	Binary	Binary_p__Basidiomycota.c__Agaricostilbomycetes.o__Agaricostilbales.f__Agaricostilbaceae
+2	200004802	C	CTCAA	rs545224555	SATB2	9.3e-09	0.97444	1	Binary	Binary_p__Basidiomycota.c__Agaricostilbomycetes.o__Agaricostilbales.f__Agaricostilbaceae.g__Sterigmatomyces
+6	32755024	G	A	rs28986406	HLA-DQB2	9.6e-09	1.0	2	Continuous	Continuous_p__Basidiomycota.c__Microbotryomycetes
+6	160274887	A	G	rs140926259	PNLDC1	9.8e-09	0.97444	1	Continuous	Continuous_p__Basidiomycota.c__Cystobasidiomycetes.o__Erythrobasidiales
+20	26131674	C	T	rs6051195	ZNF337	1e-08	0.97444	2	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetaceae.g__Eremothecium
+6	32755024	G	A	rs28986406	HLA-DQB2	1e-08	0.97444	2	Continuous	Continuous_p__Basidiomycota.c__Microbotryomycetes.o__Sporidiobolales.f__Sporidiobolaceae
+14	107231061	G	A	rs562638302	IGHV3-74	1.1e-08	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Didymosphaeriaceae
+2	38944857	T	G	rs187856213	GALM	1.1e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Bionectriaceae
+7	22762176	A	T		STEAP1B	1.2e-08	0.97444	2	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Onygenales
+15	89768006	G	C	rs139578135	RLBP1	1.2e-08	0.97444	2	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Debaryomycetaceae.g__Debaryomyces
+2	8996878	A	T	rs6745092	MBOAT2	1.2e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Debaryomycetaceae.g__Meyerozyma
+7	43936312	G	A	rs118152848	URGCP,URGCP-MRPS24	1.2e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Microascales.f__Microascaceae.g__Scopulariopsis
+1	238699660	A	C	rs10802704	MTRNR2L11	1.2e-08	0.97444	1	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Psathyrellaceae
+8	111739331	T	C	rs75454867	KCNV1	1.2e-08	1.0	3	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Phallales.f__Phallaceae
+11	39372946	A	G	rs74408198	LRRC4C	1.2e-08	1.0	2	Continuous	Continuous_p__Basidiomycota.c__Microbotryomycetes.__
+1	76240679	G	A	rs11161598	ACADM	1.2e-08	1.0	3	Continuous	Continuous_p__Basidiomycota.c__Wallemiomycetes.o__Wallemiales.f__Wallemiaceae
+7	14296081	A	AAAAT		DGKB	1.3e-08	0.97444	2	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Hypocreales_fam_Incertae_sedis
+1	76240679	G	A	rs11161598	ACADM	1.3e-08	1.0	3	Continuous	Continuous_p__Basidiomycota.c__Wallemiomycetes.o__Wallemiales.f__Wallemiaceae.g__Wallemia
+1	200266080	G	A	rs116861094	ZNF281	1.4e-08	0.97444	2	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Hypocreales_fam_Incertae_sedis.__
+12	121697837	A	G		CAMKK2	1.4e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Hypocreales_fam_Incertae_sedis.g__Acremonium
+2	53339849	A	G	rs60398014	ASB3	1.5e-08	1.0082	1	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Psathyrellaceae
+7	154918793	A	T		HTR5A	1.6e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.__
+5	170854833	G	T	rs143631593	AC093246.1,FGF18	1.6e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Glomerellales
+11	76267767	T	A	rs60748394	EMSY	1.6e-08	1.0	2	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Trichosphaeriales.f__Trichosphaeriaceae.__
+16	16876299	G	T	rs8043649	XYLT1	1.6e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales.f__Trichosporonaceae
+5	60863287	T	A	rs13164048	ZSWIM6	1.7e-08	1.0	3	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Botryosphaeriales.f__Botryosphaeriaceae
+16	16876299	G	T	rs8043649	XYLT1	1.7e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales
+2	191343561	TA	T		MFSD6	1.8e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.__
+12	123639539	TA	T		MPHOSPH9	1.8e-08	0.97444	2	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Phaeosphaeriaceae
+2	200004802	C	CTCAA	rs545224555	SATB2	1.9e-08	0.97444	1	Binary	Binary_p__Basidiomycota.c__Agaricostilbomycetes.o__Agaricostilbales
+3	161731309	G	A	rs117166396	OTOL1	1.9e-08	0.97444	3	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Didymosphaeriaceae.g__Paraphaeosphaeria
+13	20474771	G	A	rs9506395	ZMYM5	2.1e-08	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales
+6	168620603	G	A	rs149458636	DACT2	2.2e-08	1.0	1	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales.f__Cyphellophoraceae
+15	55073968	A	G	rs7172875	UNC13C	2.2e-08	0.97444	1	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetaceae.g__Eremothecium
+11	130727768	G	C	rs78192555	SNX19	2.2e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Thermoascaceae
+17	79442879	G	A	rs74973831	BAHCC1	2.2e-08	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Dipodascaceae.g__Yarrowia
+4	17364121	G	A	rs77215781	QDPR	2.2e-08	0.97444	1	Continuous	Continuous_p__Glomeromycota
+9	108258466	G	C	rs10991676	FSD1L	2.3e-08	0.97444	1	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Aspergillaceae.__
+3	65263164	C	T	rs73118060	MAGI1	2.3e-08	1.0027	1	Binary	Binary_p__Basidiomycota.c__Microbotryomycetes
+1	75059868	T	C	rs75449185	ERICH3	2.3e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Debaryomycetaceae.__
+16	8095547	G	A	rs150432817	RBFOX1	2.4e-08	1.0027	1	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Pichiaceae.g__Ogataea
+6	138606686	T	A	rs78008206	ARFGEF3	2.5e-08	1.0	1	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Thermoascaceae
+5	167824481	A	G	rs189083367	WWC1	2.5e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Leotiomycetes.o__Helotiales.f__Sclerotiniaceae.__
+10	44701983	T	C	rs180904236	CXCL12	2.5e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Moniliellomycetes.o__Moniliellales.f__Moniliellaceae.g__Moniliella
+3	52994657	A	C	rs13063993	SFMBT1	2.5e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Wallemiomycetes
+5	73399526	A	T	rs72776322	ARHGEF28	2.6e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Trichosphaeriales
+3	195232050	T	A		PPP1R2	2.6e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Malasseziomycetes.o__Malasseziales.f__Malasseziaceae
+10	44701983	T	C	rs180904236	CXCL12	2.8e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Moniliellomycetes.o__Moniliellales.f__Moniliellaceae
+3	110088132	T	C	rs186619646	NECTIN3	2.8e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Cystofilobasidiales.f__Mrakiaceae.__
+3	52994657	A	C	rs13063993	SFMBT1	2.8e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Wallemiomycetes.o__Wallemiales
+4	8448348	A	G	rs78384927	TRMT44	2.9e-08	0.97444	1	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Phaeosphaeriaceae.__
+3	195232050	T	A		PPP1R2	2.9e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Malasseziomycetes.o__Malasseziales
+3	195232050	T	A		PPP1R2	2.9e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Malasseziomycetes.o__Malasseziales.f__Malasseziaceae.g__Malassezia
+5	73395464	C	T	rs72776309	ARHGEF28	3e-08	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Trichosphaeriales.f__Trichosphaeriaceae
+4	44376353	C	T	rs201625063	KCTD8	3.1e-08	1.0	1	Continuous	Continuous_p__Ascomycota.__
+16	12967914	CA	C		SHISA9	3.2e-08	1.0	1	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Dothideales.f__Aureobasidiaceae
+11	40244361	C	T	rs191052734	LRRC4C	3.4e-08	1.0	1	Binary	Binary_p__Basidiomycota.c__Microbotryomycetes.__
+1	161624045	A	G	rs7528639	FCGR2B	3.4e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Pichiaceae
+6	82441832	C	T	rs194935	TENT5A	3.5e-08	1.0	1	Binary	Binary_p__Basidiomycota.c__Cystobasidiomycetes.o__Cystobasidiales.f__Cystobasidiaceae
+1	78117298	G	A	rs117354543	ZZZ3	3.5e-08	1.0	2	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Dothideales.f__Aureobasidiaceae.g__Aureobasidium
+11	134625552	C	A	rs12281154	B3GAT1	3.5e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Thyridariaceae
+10	44701983	T	C	rs180904236	CXCL12	3.5e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Moniliellomycetes.o__Moniliellales
+1	110346115	A	G	rs7517624	GSTM5	3.7e-08	0.97444	1	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Didymellaceae.__
+1	248062101	G	A	rs6691570	OR2W3	3.7e-08	0.97444	1	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Tremellales.__
+2	200004802	C	CTCAA	rs545224555	SATB2	3.7e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Agaricostilbomycetes
+5	134196817	T	TA	rs113465615	C5orf24	3.9e-08	1.0	1	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Auriculariales.f__Auriculariaceae
+5	134196817	T	TA	rs113465615	C5orf24	3.9e-08	1.0	1	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Auriculariales.f__Auriculariaceae.g__Auricularia
+5	167824481	A	G	rs189083367	WWC1	4e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Leotiomycetes.o__Helotiales.f__Sclerotiniaceae
+6	21759960	G	T	rs116875797	SOX4	4e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Debaryomycetaceae
+7	38653266	T	G	rs17171418	AMPH	4e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Pichiaceae.g__Saturnispora
+16	59190874	G	A	rs149225064	GOT2	4e-08	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Sordariales
+7	42395661	A	G	rs142300661	GLI3	4.1e-08	1.0	1	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Debaryomycetaceae.g__Hyphopichia
+13	23287698	C	T		SGCG	4.2e-08	1.0	1	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Trichosphaeriales.f__Trichosphaeriaceae.__
+2	195838610	G	A	rs371904983	SLC39A10	4.2e-08	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Hypocreaceae
+2	15425470	A	G	rs139690177	NBAS	4.3e-08	0.97444	1	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Sordariales.f__Chaetomiaceae.__
+6	82441832	C	T	rs194935	TENT5A	4.3e-08	1.0	1	Binary	Binary_p__Basidiomycota.c__Cystobasidiomycetes.o__Cystobasidiales
+13	71035829	T	A	rs150061397	KLHL1	4.3e-08	1.0	1	Continuous	Continuous_p__Mortierellomycota.c__Mortierellomycetes
+19	7904167	C	T	rs377303897	EVI5L	4.4e-08	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.__
+1	39968035	T	G	rs78700859	BMP8A	4.5e-08	0.97444	1	Continuous	Continuous_p__Basidiomycota.c__Cystobasidiomycetes.o__Cystobasidiales.f__Cystobasidiaceae.g__Cystobasidium
+14	29891005	C	T	rs1952268	PRKD1	4.6e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Pichiaceae.g__Pichia
+3	195232050	T	A		PPP1R2	4.6e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Malasseziomycetes
+17	74745380	C	T	rs78989100	MFSD11	4.7e-08	1.0	1	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Capnodiales
+22	45559741	G	T	rs3788634	NUP50	4.7e-08	0.97444	1	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Onygenales
+3	112354617	G	C	rs80182819	CCDC80	4.8e-08	1.0	1	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Polyporales
+1	110346115	A	G	rs7517624	GSTM5	4.9e-08	0.97444	1	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Didymellaceae
+13	71035829	T	A	rs150061397	KLHL1	5.2e-08	1.0	0	Continuous	Continuous_p__Mortierellomycota
+16	5138548	C	T	rs143499382	EEF2KMT	5.4e-08	1.0	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Pleurotaceae.g__Pleurotus
+4	174022037	T	C	rs144546718	GALNTL6	5.4e-08	0.97444	0	Binary	Binary_p__Basidiomycota.c__Exobasidiomycetes.o__Tilletiales
+4	174022037	T	C	rs144546718	GALNTL6	5.4e-08	0.97444	0	Binary	Binary_p__Basidiomycota.c__Exobasidiomycetes.o__Tilletiales.f__Tilletiaceae
+4	174022037	T	C	rs144546718	GALNTL6	5.4e-08	0.97444	0	Binary	Binary_p__Basidiomycota.c__Exobasidiomycetes.o__Tilletiales.f__Tilletiaceae.g__Tilletia
+17	74745380	C	T	rs78989100	MFSD11	5.5e-08	1.0	0	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Capnodiales.f__Cladosporiaceae
+2	159237363	A	G	rs142433058	CCDC148	5.7e-08	0.97444	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Microascales.f__Microascaceae
+16	5138548	C	T	rs143499382	EEF2KMT	5.8e-08	0.97444	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Pleurotaceae
+1	11969938	T	C	rs142300434	KIAA2013	6e-08	1.0	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Thyridariaceae
+2	40006488	A	AGG	rs1553377005	THUMPD2	6.2e-08	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Metschnikowiaceae.g__Kodamaea
+6	128906293	A	C	rs78233489	PTPRK	6.3e-08	1.0	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales.f__Herpotrichiellaceae.__
+2	200004802	C	CTCAA	rs545224555	SATB2	6.5e-08	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Agaricostilbomycetes.o__Agaricostilbales.f__Agaricostilbaceae.g__Sterigmatomyces
+12	31748381	C	T		DENND5B	6.6e-08	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Pichiaceae.g__Pichia
+2	200004802	C	CTCAA	rs545224555	SATB2	6.7e-08	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Agaricostilbomycetes.o__Agaricostilbales.f__Agaricostilbaceae
+8	5517003	T	A	rs147062491	CSMD1	6.9e-08	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Metschnikowiaceae.g__Clavispora
+3	14124108	G	A	rs78713164	CHCHD4	7e-08	0.97444	0	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Onygenales.f__Ascosphaeraceae
+3	14124108	G	A	rs78713164	CHCHD4	7e-08	0.97444	0	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Onygenales.f__Ascosphaeraceae.g__Ascosphaera
+7	95983411	A	C	rs118149041	SLC25A13	7.1e-08	1.0082	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Onygenales.f__Ascosphaeraceae.g__Ascosphaera
+7	95983411	A	C	rs118149041	SLC25A13	7.2e-08	1.0082	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Onygenales.f__Ascosphaeraceae
+2	200004802	C	CTCAA	rs545224555	SATB2	7.2e-08	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Agaricostilbomycetes.o__Agaricostilbales
+14	33376221	T	C	rs7150639	NPAS3	7.3e-08	0.97444	0	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Trichocomaceae
+4	150015512	T	C	rs141684542	IQCM	7.3e-08	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Xylariales
+13	71035829	T	A	rs150061397	KLHL1	7.3e-08	1.0	0	Continuous	Continuous_p__Mortierellomycota.c__Mortierellomycetes.o__Mortierellales
+8	113548085	G	A	rs200019699	CSMD3	7.4e-08	0.97444	0	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes
+2	212656938	A	G	rs117201452	ERBB4	7.5e-08	1.0	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Trichomonascaceae.g__Wickerhamiella
+14	96516589	G	T	rs61982727	C14orf132	7.6e-08	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Trichomonascaceae.g__Wickerhamiella
+4	127035139	C	T	rs76793574	FAT4	7.7e-08	1.0	0	Binary	Binary_p__Ascomycota.c__Leotiomycetes.o__Helotiales.f__Sclerotiniaceae.__
+16	86829941	T	C		FOXL1	7.7e-08	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Debaryomycetaceae
+11	132474176	TA	T	rs111516512	OPCML	7.7e-08	0.97444	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Phallales
+11	132474176	TA	T	rs111516512	OPCML	7.7e-08	0.97444	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Phallales.f__Phallaceae
+14	77560639	AT	A		CIPC	7.7e-08	0.97444	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales
+14	77560639	AT	A		CIPC	7.7e-08	0.97444	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales.f__Trichosporonaceae
+10	70625881	G	T	rs112781807	STOX1	7.7e-08	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Didymellaceae
+20	37779550	C	T	rs117483342	DHX35	7.9e-08	0.97444	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes
+10	70625881	G	T	rs112781807	STOX1	8e-08	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Didymellaceae.__
+5	179839809	T	C	rs57964752	GFPT2	8.1e-08	1.0	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Dothideales
+22	42664106	C	T	rs151239871	TCF20	8.1e-08	0.97444	0	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales.__
+10	124901408	A	G	rs2438118	HMX3	8.1e-08	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales.f__Trichosporonaceae.__
+11	132474176	TA	T	rs111516512	OPCML	8.2e-08	0.97444	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Phallales.f__Phallaceae.g__Phallus
+10	44701983	T	C	rs180904236	CXCL12	8.4e-08	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Moniliellomycetes
+14	44555363	G	A	rs142416595	FSCB	8.8e-08	0.97444	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Trichosphaeriales.f__Trichosphaeriaceae.g__Nigrospora
+4	17364121	G	A	rs77215781	QDPR	8.9e-08	0.97444	0	Continuous	Continuous_p__Glomeromycota.c__Glomeromycetes
+20	42197904	G	T	rs3752559	SGK2,Z98752.3	9e-08	0.97444	0	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Agaricales
+6	168620603	G	A	rs149458636	DACT2	9.1e-08	1.0	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales.f__Cyphellophoraceae
+4	181970582	C	T	rs79287880	TENM3	9.2e-08	1.0313	0	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Aspergillaceae.g__Aspergillus
+5	99244431	G	A	rs111811860	FAM174A	9.6e-08	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycodaceae
+9	19800200	G	T	rs117341964	SLC24A2	9.8e-08	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Pichiaceae.g__Ogataea
+20	60945473	C	T	rs2427299	LAMA5	9.9e-08	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Trichomonascaceae
+2	6530004	T	A	rs73135587	CMPK2	1e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetales_fam_Incertae_sedis.g__Diutina
+9	133858730	C	T	rs11244220	LAMC3	1e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Wallemiomycetes.o__Wallemiales
+8	30237087	G	A	rs202212315	RBPMS	1e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Microascales.f__Microascaceae
+3	110088132	T	C	rs186619646	NECTIN3	1e-07	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Cystofilobasidiales.f__Mrakiaceae
+13	71035829	T	A	rs150061397	KLHL1	1e-07	1.0	0	Continuous	Continuous_p__Mortierellomycota.c__Mortierellomycetes.o__Mortierellales.f__Mortierellaceae
+4	127035139	C	T	rs76793574	FAT4	1.1e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Leotiomycetes.o__Helotiales.f__Sclerotiniaceae
+8	69986399	T	C		C8orf34	1.1e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Debaryomycetaceae.g__Debaryomyces
+3	65263164	C	T	rs73118060	MAGI1	1.1e-07	1.0054	0	Binary	Binary_p__Basidiomycota.c__Microbotryomycetes.o__Sporidiobolales
+9	133858730	C	T	rs11244220	LAMC3	1.1e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Wallemiomycetes.o__Wallemiales.f__Wallemiaceae
+9	133858730	C	T	rs11244220	LAMC3	1.1e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Wallemiomycetes.o__Wallemiales.f__Wallemiaceae.g__Wallemia
+6	77322488	G	A		IMPG1	1.1e-07	0.97444	0	Continuous	Continuous_Pielou_evenness
+5	142604421	G	A		ARHGAP26	1.1e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Metschnikowiaceae.g__Kodamaea
+2	128443707	A	G	rs148494765	LIMS2	1.1e-07	0.97444	0	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Polyporales.f__Ganodermataceae.g__Ganoderma
+1	39968035	T	G	rs78700859	BMP8A	1.1e-07	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Cystobasidiomycetes.o__Cystobasidiales
+7	152886534	C	CTTTT	rs200174069	ACTR3B	1.1e-07	1.0	0	Continuous	Continuous_p__Mucoromycota.c__Mucoromycetes.o__Mucorales.f__Mucoraceae
+7	15558665	A	G		AGMO	1.2e-07	1.0082	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Botryosphaeriales.f__Botryosphaeriaceae
+12	104051927	G	A	rs75712475	STAB2	1.2e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Pezizomycetes.o__Pezizales
+3	13070799	G	A		IQSEC1	1.2e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycodaceae
+6	135251339	T	G	rs79290860	ALDH8A1	1.2e-07	1.0082	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Bionectriaceae
+5	134196817	T	TA	rs113465615	C5orf24	1.2e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Auriculariales
+13	30064363	T	C		MTUS2	1.3e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Leotiomycetes.o__Erysiphales
+13	30064363	T	C		MTUS2	1.3e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Leotiomycetes.o__Erysiphales.f__Erysiphaceae
+6	111510014	T	C	rs62421931	SLC16A10	1.3e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Debaryomycetaceae.__
+5	172379523	GAA	G		ERGIC1	1.3e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycodaceae.g__Hanseniaspora
+7	98472001	T	TTA		TRRAP	1.3e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Nectriaceae.g__Fusarium
+21	15819992	A	C	rs9979004	SAMSN1	1.3e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Microascales
+5	51871448	A	T	rs181153607	PELO	1.3e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Microascales.f__Microascaceae.g__Scopulariopsis
+9	134477387	A	AG		RAPGEF1	1.3e-07	1.0	0	Continuous	Continuous_p__Ascomycota
+7	742287	T	C	rs200440288	PRKAR1B	1.3e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetales_fam_Incertae_sedis.g__Candida
+8	30237087	G	A	rs202212315	RBPMS	1.3e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Microascales
+5	58050183	T	TG		RAB3C	1.3e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Xylariales
+3	167529281	T	C		SERPINI1	1.4e-07	1.0027	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Botryosphaeriales
+16	61174365	C	T	rs60668960	CDH8	1.4e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Capnodiales.f__Cladosporiaceae.g__Cladosporium
+16	3246770	A	G	rs146916392	OR1F1	1.4e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Pleosporaceae
+4	151473074	C	T	rs117167527	LRBA	1.4e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Polyporales
+8	114923231	C	T	rs180719036	CSMD3	1.4e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Leotiomycetes.o__Helotiales
+21	37834914	A	T	rs2835363	CLDN14	1.4e-07	0.97444	0	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales.f__Trichosporonaceae.g__Cutaneotrichosporon
+16	23570746	G	T	rs7199641	UBFD1	1.5e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Trichocomaceae.g__Talaromyces
+12	104051927	G	A	rs75712475	STAB2	1.5e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Pezizomycetes
+5	123381133	A	T	rs80124161	CSNK1G3	1.5e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes
+12	115383567	C	T	rs11830825	TBX3	1.5e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Cystobasidiomycetes.o__Erythrobasidiales
+13	71035829	T	A	rs150061397	KLHL1	1.5e-07	1.0	0	Continuous	Continuous_p__Mortierellomycota.c__Mortierellomycetes.o__Mortierellales.f__Mortierellaceae.g__Mortierella
+3	67457150	G	A		SUCLG2	1.6e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Cystobasidiomycetes
+3	70677929	A	G	rs183204173	MDFIC2	1.6e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycodaceae.g__Hanseniaspora
+13	22182645	C	T	rs150812065	MICU2	1.6e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.__
+17	72443192	T	G		GPRC5C	1.7e-07	1.0054	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Metschnikowiaceae
+9	115509156	T	C	rs2173193	SNX30	1.7e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Microascales.f__Microascaceae.__
+12	97544849	T	C	rs77480146	NEDD1	1.7e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Moniliellomycetes
+12	97544849	T	C	rs77480146	NEDD1	1.7e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Moniliellomycetes.o__Moniliellales
+12	97544849	T	C	rs77480146	NEDD1	1.7e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Moniliellomycetes.o__Moniliellales.f__Moniliellaceae
+12	97544849	T	C	rs77480146	NEDD1	1.7e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Moniliellomycetes.o__Moniliellales.f__Moniliellaceae.g__Moniliella
+3	184354341	G	A	rs181130619	EPHB3	1.7e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetaceae.g__Torulaspora
+14	106143461	CAA	C		IGHA1	1.7e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Nectriaceae.__
+18	559643	C	T	rs113147449	CETN1	1.7e-07	0.97444	0	Continuous	Continuous_p__Basidiomycota.c__Cystobasidiomycetes.__
+3	187993295	G	A	rs117302762	LPP	1.8e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Didymosphaeriaceae
+5	19038408	C	G	rs149283827	CDH18	1.8e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Xylariales.f__Xylariaceae
+3	65263164	C	T	rs73118060	MAGI1	1.8e-07	1.0054	0	Binary	Binary_p__Basidiomycota.c__Microbotryomycetes.o__Sporidiobolales.f__Sporidiobolaceae
+7	49837343	A	G	rs2098883	VWC2	1.8e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Tremellales
+7	152878333	A	G	rs4285401	ACTR3B	1.9e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Phaffomycetaceae.g__Wickerhamomyces
+12	121697837	A	G		CAMKK2	1.9e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Hypocreales_fam_Incertae_sedis.g__Acremonium
+7	85073726	T	C	rs2463660	SEMA3D	1.9e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Bolbitiaceae
+7	56894186	C	G	rs376702260	ZNF479	1.9e-07	0.97444	0	Continuous	Continuous_p__Basidiomycota.c__Microbotryomycetes.o__Sporidiobolales.f__Sporidiobolaceae.g__Rhodotorula
+10	132779252	G	A	rs185201505	TCERG1L	2e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales
+8	90816317	A	C	rs40455	RIPK2	2e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Pichiaceae
+12	32201471	G	A	rs10844105	RESF1	2e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Glomerellales
+10	105793459	T	C		COL17A1	2e-07	1.0	0	Continuous	Continuous_Faith_pd
+4	25457202	A	G	rs6846302	ANAPC4	2.1e-07	1.0027	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Nectriaceae
+10	22886603	A	C	rs7918943	PIP4K2A	2.1e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales.f__Herpotrichiellaceae
+10	68663183	C	T	rs183526760	CTNNA3	2.1e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Leotiomycetes
+12	121677538	C	T	rs1653589	CAMKK2	2.1e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Leotiomycetes.o__Erysiphales
+1	177755752	C	CT		SEC16B	2.2e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Dothideales.f__Aureobasidiaceae.g__Aureobasidium
+19	8174724	C	T	rs11672038	FBN3	2.2e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Malasseziomycetes
+19	8174724	C	T	rs11672038	FBN3	2.2e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Malasseziomycetes.o__Malasseziales
+19	8174724	C	T	rs11672038	FBN3	2.2e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Malasseziomycetes.o__Malasseziales.f__Malasseziaceae
+19	8174724	C	T	rs11672038	FBN3	2.2e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Malasseziomycetes.o__Malasseziales.f__Malasseziaceae.g__Malassezia
+12	121677538	C	T	rs1653589	CAMKK2	2.2e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Leotiomycetes.o__Erysiphales.f__Erysiphaceae
+4	10767529	G	A	rs140897701	CLNK	2.4e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Periconiaceae.g__Periconia
+12	23947697	C	T	rs34616559	SOX5	2.4e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetaceae.g__Zygosaccharomyces
+2	41301922	G	T		SLC8A1	2.4e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes
+18	75149750	G	A		GALR1	2.4e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Filobasidiales.f__Filobasidiaceae.g__Naganishia
+6	51969722	T	A	rs12660654	PKHD1	2.5e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetaceae.g__Kazachstania
+16	84445176	G	T		ATP2C2	2.5e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Hypocreales_fam_Incertae_sedis.__
+12	118127520	A	AATAAAT		KSR2	2.5e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Xylariales.f__Apiosporaceae
+12	118127520	A	AATAAAT		KSR2	2.5e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Xylariales.f__Apiosporaceae.g__Arthrinium
+9	8108790	A	G	rs9650711	PTPRD	2.5e-07	0.97444	0	Continuous	Continuous_p__Basidiomycota.c__Cystobasidiomycetes.o__Cystobasidiales.f__Cystobasidiaceae
+2	15405884	T	C	rs144259019	NBAS	2.6e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Sordariales.f__Chaetomiaceae
+6	63911709	G	A	rs183530465	FKBP1C	2.7e-07	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales.f__Trichosporonaceae.g__Apiotrichum
+8	102240933	A	G	rs141805790	ZNF706	2.8e-07	0.97444	0	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__unidentified
+7	38509481	C	G	rs117384451	AMPH	2.9e-07	1.0054	0	Binary	Binary_p__Mucoromycota.c__Mucoromycetes.o__Mucorales.f__Rhizopodaceae
+7	38509481	C	G	rs117384451	AMPH	2.9e-07	1.0054	0	Binary	Binary_p__Mucoromycota.c__Mucoromycetes.o__Mucorales.f__Rhizopodaceae.g__Rhizopus
+11	107792649	T	A	rs78763256	SLC35F2	2.9e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales
+6	5708157	A	G	rs145996995	FARS2	2.9e-07	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Cystobasidiomycetes
+12	56310278	A	G	rs79157899	PYM1	3e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Aspergillaceae.g__Penicillium
+1	242078317	GA	G		EXO1	3e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales.f__Trichosporonaceae.g__Trichosporon
+16	87790611	G	C	rs111803868	KLHDC4	3e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes
+6	125831838	T	A		HDDC2	3e-07	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Exobasidiomycetes
+9	118104229	C	T	rs78051874	TNC	3.1e-07	1.0	0	Binary	Binary_p__Mucoromycota.c__Mucoromycetes.o__Mucorales.f__Mucoraceae
+7	23376713	G	A	rs76983703	IGF2BP3	3.1e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Periconiaceae
+6	57154401	T	A	rs180834533	PRIM2	3.1e-07	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Psathyrellaceae.g__Coprinellus
+11	8423098	T	C	rs573870720	STK33	3.2e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Metschnikowiaceae
+11	10243946	CACA	C	rs138722009	SBF2	3.3e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Agaricales
+8	141509706	T	C	rs140144380	CHRAC1	3.3e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Filobasidiales.f__Filobasidiaceae.g__Filobasidium
+11	69393497	A	T	rs199737458	CCND1	3.3e-07	1.0	0	Binary	Binary_p__Mortierellomycota
+11	69393497	A	T	rs199737458	CCND1	3.3e-07	1.0	0	Binary	Binary_p__Mortierellomycota.c__Mortierellomycetes
+11	69393497	A	T	rs199737458	CCND1	3.3e-07	1.0	0	Binary	Binary_p__Mortierellomycota.c__Mortierellomycetes.o__Mortierellales
+11	69393497	A	T	rs199737458	CCND1	3.3e-07	1.0	0	Binary	Binary_p__Mortierellomycota.c__Mortierellomycetes.o__Mortierellales.f__Mortierellaceae
+11	69393497	A	T	rs199737458	CCND1	3.3e-07	1.0	0	Binary	Binary_p__Mortierellomycota.c__Mortierellomycetes.o__Mortierellales.f__Mortierellaceae.g__Mortierella
+15	24490661	A	AG	rs563931348	NPAP1	3.3e-07	1.0	0	Continuous	Continuous_p__Mucoromycota.c__Mucoromycetes.o__Mucorales.f__Rhizopodaceae.g__Rhizopus
+4	6702826	A	T	rs201767730	S100P	3.4e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__unidentified
+6	102252029	T	C	rs17062492	GRIK2	3.4e-07	0.97444	0	Continuous	Continuous_p__Chytridiomycota
+7	152887205	G	A	rs12533454	ACTR3B	3.4e-07	0.97444	0	Continuous	Continuous_p__Mucoromycota.c__Mucoromycetes.o__Mucorales
+19	700346	G	A	rs188614021	PRSS57	3.5e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Trichosphaeriales
+19	700346	G	A	rs188614021	PRSS57	3.5e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Trichosphaeriales.f__Trichosphaeriaceae
+3	173339777	A	G	rs9868927	NLGN1	3.5e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Polyporales.f__Ganodermataceae
+5	65497589	A	G	rs79668069	SREK1	3.5e-07	1.0	0	Binary	Binary_p__Glomeromycota.c__Glomeromycetes.o__Glomerales.f__Glomeraceae.__
+3	103749176	T	A	rs1165927	ALCAM	3.6e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Didymosphaeriaceae.g__Paraphaeosphaeria
+15	31458112	A	G	rs74827560	TRPM1	3.6e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales.f__Trichosporonaceae.g__Cutaneotrichosporon
+6	166757201	A	G	rs75516781	SFT2D1	3.6e-07	1.0	0	Continuous	Continuous_p__Mucoromycota.c__Mucoromycetes.o__Mucorales.f__Rhizopodaceae
+17	32180191	T	A		ASIC2	3.7e-07	1.0	0	Binary	Binary_p__Ascomycota.__
+16	77449355	G	C	rs72801674	ADAMTS18	3.7e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Pichiaceae.g__Saturnispora
+6	77322488	G	A		IMPG1	3.7e-07	0.97444	0	Continuous	Continuous_Shannon_entropy
+6	74731730	A	C	rs139510821	CD109	3.7e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Trichocomaceae.g__Talaromyces
+14	74504005	C	T	rs150810413	BBOF1	3.8e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Hypocreales
+7	152256629	C	T	rs76495803	XRCC2	3.8e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Psathyrellaceae.g__Coprinopsis
+1	82690730	C	T	rs12123603	ADGRL2	3.8e-07	0.97444	0	Continuous	Continuous_p__Glomeromycota.c__Glomeromycetes.o__Glomerales
+7	23376713	G	A	rs76983703	IGF2BP3	3.9e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Periconiaceae.g__Periconia
+16	79009663	T	A	rs12921519	WWOX	3.9e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales
+1	222118488	G	A	rs2153350	DUSP10	4e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Dipodascaceae.g__Yarrowia
+9	133858730	C	T	rs11244220	LAMC3	4e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Wallemiomycetes
+19	18457739	C	T	rs11668079	PGPEP1	4e-07	1.0	0	Continuous	Continuous_p__Mucoromycota.c__Mucoromycetes
+2	34658997	C	A	rs146789547	FAM98A	4.1e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Capnodiales.f__Cladosporiaceae.__
+4	112606140	A	G	rs78858885	FAM241A	4.1e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Pleosporaceae.g__Alternaria
+12	59776018	A	G	rs76272260	SLC16A7	4.1e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetales_fam_Incertae_sedis.g__Starmerella
+4	123267860	T	C	rs77615003	KIAA1109	4.1e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Hypocreaceae.g__Trichoderma
+1	195855302	A	G		KCNT2	4.2e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Cystobasidiomycetes.o__Cystobasidiales.f__Cystobasidiaceae.g__Cystobasidium
+11	115120815	A	G	rs368613160	CADM1	4.3e-07	1.0027	0	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales.f__Herpotrichiellaceae.__
+17	1636577	T	G		WDR81	4.3e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Sordariales
+10	7522877	G	A	rs1570804	SFMBT2	4.3e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales.f__Trichosporonaceae.__
+3	119022636	G	T	rs112869065	ARHGAP31	4.4e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Exobasidiomycetes
+11	24762675	C	G	rs17307110	LUZP2	4.5e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Capnodiales
+3	178490729	G	A	rs78214809	AC117457.1,KCNMB2	4.6e-07	1.0082	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Hypocreales_fam_Incertae_sedis
+9	27803765	A	T	rs150562992	LINGO2	4.6e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Nectriaceae.__
+15	61801775	T	A	rs4775410	RORA	4.6e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Trichosporonales.f__Trichosporonaceae.g__Apiotrichum
+6	66426362	A	G	rs35450375	EYS	4.6e-07	1.0	0	Binary	Binary_p__Glomeromycota.c__Glomeromycetes.o__Glomerales
+6	66426362	A	G	rs35450375	EYS	4.6e-07	1.0	0	Binary	Binary_p__Glomeromycota.c__Glomeromycetes.o__Glomerales.f__Glomeraceae
+18	5807657	A	G	rs184599223	TMEM200C	4.6e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Capnodiales.f__Cladosporiaceae.__
+8	76550375	ACAAGCC	A	rs138733861	HNF4G	4.6e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales
+20	54963555	C	T	rs6099127	AURKA	4.8e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Dipodascaceae.__
+7	742287	T	C	rs200440288	PRKAR1B	4.8e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetales_fam_Incertae_sedis
+15	96813247	C	T	rs2252024	NR2F2	4.8e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Hypocreales
+3	110088132	T	C	rs186619646	NECTIN3	4.9e-07	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Tremellomycetes.o__Cystofilobasidiales
+6	64915751	G	T	rs13218741	EYS	5.1e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Leotiomycetes.o__Erysiphales.f__Erysiphaceae.g__Blumeria
+2	144416777	G	A	rs10928192	ARHGAP15	5.4e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Hypocreaceae.g__Trichoderma
+4	74356600	C	G	rs10518116	AFM	5.4e-07	1.0	0	Continuous	Continuous_p__Mucoromycota
+17	63485029	G	A	rs187275844	AXIN2	5.5e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.__
+2	160461462	TGTGTGC	T		BAZ2B	5.5e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Cystofilobasidiales.f__Mrakiaceae.__
+4	1497192	T	C	rs76137134	NKX1-1	5.5e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Trichomonascaceae
+4	10767529	G	A	rs140897701	CLNK	5.6e-07	1.0082	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Periconiaceae
+8	76550375	ACAAGCC	A	rs138733861	HNF4G	5.6e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Aspergillaceae
+1	104442082	A	G	rs149003656	AMY1C	5.7e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Phaffomycetaceae.__
+4	88630139	A	C	rs10433945	DMP1	5.8e-07	0.97444	0	Continuous	Continuous_Observed_features
+9	137029794	C	T	rs28628456	WDR5	5.8e-07	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes
+22	29870642	C	CA	rs199757002	NEFH	5.8e-07	1.0	0	Continuous	Continuous_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Psathyrellaceae.g__Coprinopsis
+4	123267860	T	C	rs77615003	KIAA1109	5.9e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.f__Hypocreaceae
+19	45084832	T	C	rs846873	IGSF23	5.9e-07	0.97444	0	Binary	Binary_p__Chytridiomycota
+3	169396070	T	C	rs4955669	MECOM	5.9e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Aspergillaceae.__
+14	56121427	C	T	rs12888809	KTN1	6e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Leotiomycetes.o__Helotiales
+2	167487711	G	A	rs140183447	SCN7A	6e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes
+9	1411224	C	CA		DMRT2	6.1e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes
+13	61299561	TGTTG	T	rs10605537	TDRD3	6.2e-07	0.97444	0	Binary	Binary_p__Mucoromycota.c__Mucoromycetes
+13	61299561	TGTTG	T	rs10605537	TDRD3	6.2e-07	0.97444	0	Binary	Binary_p__Mucoromycota.c__Mucoromycetes.o__Mucorales
+16	3246770	A	G	rs146916392	OR1F1	6.2e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Pleosporaceae
+5	26394566	C	T	rs1494699	CDH9	6.3e-07	1.0	0	Binary	Binary_p__Glomeromycota.c__Glomeromycetes
+6	74731730	A	C	rs139510821	CD109	6.3e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Trichocomaceae
+4	64379625	C	A		TECRL	6.4e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Leotiomycetes
+7	103197173	C	T	rs10241240	RELN	6.5e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.__
+4	104007643	C	T	rs140766378	BDH2	6.5e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetaceae.g__Saccharomyces
+11	86627046	G	A	rs10898554	PRSS23	6.6e-07	1.0054	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Agaricales.f__Psathyrellaceae.g__Coprinellus
+4	17364121	G	A	rs77215781	QDPR	6.7e-07	0.97444	0	Continuous	Continuous_p__Glomeromycota.c__Glomeromycetes.o__Glomerales.f__Glomeraceae
+12	38924160	C	CT	rs142034074	CPNE8	6.9e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Pleosporaceae.g__Alternaria
+1	187368700	A	T	rs12408414	PLA2G4A	6.9e-07	1.0	0	Continuous	Continuous_p__Mucoromycota.c__Mucoromycetes.o__Mucorales.f__Mucoraceae.g__Mucor
+4	30383062	T	C	rs117813649	PCDH7	7e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.f__Aspergillaceae.g__Aspergillus
+19	23660209	C	T	rs150941696	ZNF675	7.5e-07	1.0	0	Continuous	Continuous_p__Glomeromycota.c__Glomeromycetes.o__Glomerales.f__Glomeraceae.__
+10	9381562	TAGAC	T	rs145559822	GATA3	7.6e-07	1.0	0	Binary	Binary_p__Glomeromycota
+12	133217872	A	G		POLE	7.7e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.__
+3	180658966	AT	A		FXR1	8.5e-07	1.0	0	Continuous	Continuous_p__Ascomycota.c__Sordariomycetes
+22	49402334	C	CG		TAFA5	8.7e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Leotiomycetes.o__Helotiales.__
+4	61462569	A	G	rs576912918	ADGRL3	8.8e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Cystofilobasidiales
+4	183308681	G	A	rs113785942	TENM3	9e-07	0.97444	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Filobasidiales.f__Filobasidiaceae
+3	193667833	A	G	rs2636909	HES1	9.1e-07	1.0027	0	Binary	Binary_p__Basidiomycota.c__Microbotryomycetes.o__Sporidiobolales.f__Sporidiobolaceae.g__Rhodotorula
+14	80028801	A	G	rs10148779	NRXN3	9.1e-07	1.0	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Cystofilobasidiales.f__Mrakiaceae
+11	11575457	G	A	rs10765863	GALNT18	9.2e-07	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetales_fam_Incertae_sedis.g__Candida
+8	95664802	A	T	rs60290318	ESRP1	9.4e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetaceae.g__Torulaspora
+8	116182139	GA	G		TRPS1	9.5e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Pleosporales.f__Phaeosphaeriaceae
+10	43380229	G	A	rs76587516	BMS1	9.6e-07	1.0	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Phaffomycetaceae
+17	74745380	C	T	rs78989100	MFSD11	9.9e-07	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes.o__Capnodiales.f__Cladosporiaceae.g__Cladosporium
+3	23086141	G	A	rs117589530	UBE2E2	1e-06	1.0	0	Binary	Binary_p__Basidiomycota.c__Agaricomycetes.o__Polyporales.f__Ganodermataceae.g__Ganoderma
+2	53732794	G	C	rs10204470	ASB3	1e-06	0.97444	0	Binary	Binary_p__Mucoromycota
+10	90966393	G	A	rs17382301	CH25H	1e-06	0.97444	0	Binary	Binary_p__Mucoromycota.c__Mucoromycetes.o__Mucorales.f__Mucoraceae.g__Mucor
+3	152641040	T	A	rs9874778	P2RY1	1e-06	1.0	0	Continuous	Continuous_p__Ascomycota.c__Dothideomycetes
+1	217366425	T	C	rs17045466	ESRRG	1.1e-06	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Dipodascaceae
+3	84842407	C	T	rs6777273	CADM2	1.1e-06	0.97444	0	Continuous	Continuous_p__Basidiomycota
+1	7807016	T	C	rs11121017	CAMTA1	1.2e-06	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Dipodascaceae.__
+4	183310909	T	G		TENM3	1.2e-06	0.97444	0	Binary	Binary_p__Basidiomycota.c__Tremellomycetes.o__Filobasidiales
+11	26301674	G	A	rs11029461	ANO3	1.3e-06	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Metschnikowiaceae.g__Clavispora
+17	8307571	T	G		RNF222	1.6e-06	0.97444	0	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales.f__Herpotrichiellaceae
+2	222971274	A	G	rs6728176	PAX3	1.7e-06	0.97444	0	Binary	Binary_p__Ascomycota.c__Dothideomycetes.o__Capnodiales.f__Cladosporiaceae
+2	88624008	C	A	rs72841284	FOXI3	1.7e-06	0.97444	0	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Eurotiales.__
+5	165978967	C	T	rs147487742	TENM2	1.7e-06	1.0	0	Binary	Binary_p__Ascomycota.c__Sordariomycetes.o__Hypocreales.__
+13	25563321	T	C	rs117875471	CENPJ	1.9e-06	0.97444	0	Binary	Binary_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Debaryomycetaceae.g__Meyerozyma
+1	8745783	C	T	rs139609369	RERE	2.1e-06	0.97444	0	Continuous	Continuous_p__Ascomycota.c__Saccharomycetes.o__Saccharomycetales.f__Saccharomycetaceae
+5	140577218	C	T	rs189580029	PCDHB11	2.5e-06	0.97444	0	Binary	Binary_p__Ascomycota.c__Eurotiomycetes.o__Chaetothyriales

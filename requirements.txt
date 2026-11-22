@@ -1,0 +1,11 @@
+# Core dependencies needed to reproduce the MR, sensitivity, calibration and
+# figure analyses from the included harmonised data (Python 3.10+).
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.2
+matplotlib>=3.7
+
+# Optional: only required by scripts/04_fetch_eas_genotypes.py to read raw
+# reference VCFs. Not needed to reproduce the reported MR results.
+# pysam>=0.21
