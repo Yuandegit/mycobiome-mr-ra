@@ -1,6 +1,6 @@
 # Gut mycobiome and rheumatoid arthritis: two-sample Mendelian randomization
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24433532.svg)](https://doi.org/10.5281/zenodo.24433532)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Reproducible code and derived data accompanying the manuscript
@@ -15,7 +15,7 @@ by a fungal causal effect.
 
 - **OSF preregistration:** https://osf.io/rfpk2
 - **Archived data package (OSF storage):** `mycobiome_mr_registration_package.zip`
-- **Archived snapshot DOI (Zenodo):** see the badge above (filled at release)
+- **Archived snapshot DOI (Zenodo):** [10.5281/zenodo.24433532](https://doi.org/10.5281/zenodo.24433532) (release v1.0.0)
 
 ## Repository layout
 
@@ -96,5 +96,8 @@ CC0 1.0.
 
 ## Citation
 
-Please cite the manuscript and the archived Zenodo snapshot. The full citation
-and DOI will be added at the first release.
+Please cite the archived Zenodo snapshot as:
+
+> Yuan, S. (2026). *Yuandegit/mycobiome-mr-ra: Reproducible two-sample MR of gut mycobiome and rheumatoid arthritis* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24433532
+
+The manuscript citation will be added once the paper is accepted.
